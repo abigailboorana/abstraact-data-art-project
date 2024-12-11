@@ -46,4 +46,4 @@ Record a short video of your abstract art animation to display here on your READ
 
 ## Description
 
-For Jalyssa and I's Abstract Data Art Project, we chose to look at the Grammy Winners dataset. Our project is primarily used to inform the users about the Grammy winners from a specific year and category. Our project also informs the users about the artists/ groups that were nominated and won. We used static variables and instance methods to display the information in the console log. For our animations, we added two different types of sound effects to grab the users' attention while using the program.
+We chose to look at the Grammy Winners dataset for Jalyssa and I's Abstract Data Art Project. Our project is primarily used to inform the users about the Grammy winners from a specific year and category. Our project also informs the users about the artists/ groups nominated and won. We used static variables and instance methods to display the information in the console log. We added two different types of sound effects for our animations to grab the users' attention while using the program.
