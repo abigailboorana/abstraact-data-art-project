@@ -1,4 +1,4 @@
-# abstraact-data-art-project
+# abstract-data-art-project
 # Unit 4 - Abstract Art Project
 
 ## Introduction
@@ -41,7 +41,8 @@ Record a short video of your abstract art animation to display here on your READ
 - Upload the thumbnail image to your repo.
 - Use the following markdown
 
-[![Thumbnail for my projet](nameOfThumbnail.png)]([youtube-URL-here](https://www.youtube.com/watch?v=_w-toJiOsjE))
+[![Thumbnail for my projet](https://github.com/user-attachments/assets/ec18512e-f0ce-4b3f-ade7-eeeafa574596)
+([youtube-URL-here](https://www.youtube.com/watch?v=_w-toJiOsjE))
 
 ## Description
 
