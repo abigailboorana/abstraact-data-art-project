@@ -35,12 +35,12 @@ public class GrammyWinners {
     return "Nominee: " + nominee;
   }
 
-  // Optional: Add toStringYear() to allow direct display of the year
+
   public String toStringYear() {
     return "Year: " + year;
   }
 
-  @Override
+
   public String toString() {
     return toStringNominee() + "\n" + toStringCategory() + "\n" + toStringYear();
   }
