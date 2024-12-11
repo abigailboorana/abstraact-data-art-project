@@ -21,15 +21,16 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 DataSet: https://docs.google.com/spreadsheets/d/1ybndu2EF51z0fioSWewB1tVqWnHF9HoX6xFCqUyZm7g/edit?gid=975672932#gid=975672932
 
 -**Year** (Int) - the winning year
+
 -**Category** (String) - the category of the winners
+
 -**Nominee** (String) - the name of the artist/ group nominated
 
 ## UML Diagram
 
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README.
+![Unit 4 UML Diagram (1)](https://github.com/user-attachments/assets/a243c888-380e-4498-836c-88f03c4a5024)
 
-![UML Diagram for my project](nameOfImageFileHere.png)
-![UML Diagaram for my project] (
+
 ## Video Demo
 
 Record a short video of your abstract art animation to display here on your README. You can do this by:
@@ -40,8 +41,8 @@ Record a short video of your abstract art animation to display here on your READ
 - Upload the thumbnail image to your repo.
 - Use the following markdown
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+[![Thumbnail for my projet](nameOfThumbnail.png)]([youtube-URL-here](https://www.youtube.com/watch?v=_w-toJiOsjE))
 
 ## Description
 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+For Jalyssa and I's Abstract Data Art Project, we chose to look at the Grammy Winners dataset. Our project is primarily used to inform the users about the Grammy winners from a specific year and category. Our project also informs the users about the artists/ groups that were nominated and won. We used static variables and instance methods to display the information in the console log. For our animations, we added two different types of sound effects to grab the users' attention while using the program.
